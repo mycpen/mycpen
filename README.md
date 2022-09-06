@@ -10,7 +10,7 @@
 
 <a href="https://github.com/mycpen/mycpen.github.io">
   <!-- 主页卡片之「置顶仓库」 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=mycpen.github.io&theme=cobalt" alt="mycpen的置顶仓库卡片" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=image_bed&theme=cobalt" alt="mycpen的置顶仓库卡片" />
 </a>
 
 
