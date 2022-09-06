@@ -5,12 +5,12 @@
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- 主页卡片之「常用编程语言」  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycpen&layout=compact&theme=vue " alt="mycpen的编程语言卡片" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycpen&layout=compact&theme=vue" alt="mycpen的编程语言卡片" />
 </a>
 </br>
 <a href="https://github.com/mycpen/mycpen.github.io">
   <!-- 主页卡片之「置顶仓库」 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=mycpen.github.io&theme=vue " alt="mycpen的置顶仓库卡片" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=mycpen.github.io&theme=vue" alt="mycpen的置顶仓库卡片" />
 </a>
 
 
