@@ -13,16 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=blog&theme=default" alt="Hexo + Butterfly 搭建的个人博客" />
 </a>
 
-<a href="https://github.com/mycpen/mycpen.github.io">
-  <!-- 主页卡片之「置顶仓库」 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=mycpen.github.io&theme=default" alt="Hexo + Pure 搭建的个人博客" />
-</a>
-
-<a href="https://github.com/mycpen/nav">
-  <!-- 主页卡片之「置顶仓库」 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=nav&theme=default" alt="Hexo + Webstack 搭建的网址导航" />
-</a>
-
 <!--
 **mycpen/mycpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
