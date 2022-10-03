@@ -20,7 +20,7 @@
 
 <a href="https://github.com/mycpen/nav">
   <!-- 主页卡片之「置顶仓库」 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=nav&theme=default" alt="Hexo + Webstack 搭建的网址导航 & 源码" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=nav&theme=default" alt="Hexo + Webstack 搭建的网址导航" />
 </a>
 
 <!--
