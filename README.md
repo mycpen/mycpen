@@ -8,10 +8,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycpen&layout=compact&theme=default" alt="mycpen的编程语言卡片" />
 </a>
 
-<!-- <a href="https://github.com/mycpen/blog"> -->
+<a href="https://github.com/mycpen/blog">
   <!-- 主页卡片之「置顶仓库」 -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=blog&theme=default" alt="Hexo + Butterfly 搭建的个人博客" /> -->
-<!-- </a> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=blog&theme=default" alt="Hexo + Butterfly 搭建的个人博客" />
+</a>
 
 <!--
 **mycpen/mycpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
