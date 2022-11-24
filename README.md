@@ -11,7 +11,6 @@
   <a href="https://github.com/mycpen" title="Mycpen's GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=mycpen&show_icons=true&count_private=true&layout=compact&theme=default">
   </a>
-  <br/>
   <a href="https://github.com/mycpen" title="Most Used Languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycpen&layout=compact&count_private=true&theme=default">
   </a>
