@@ -1,29 +1,18 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- 主页卡片之「Github Status」  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mycpen&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="mycpen的主页统计卡片" />
-</a>
+<h3 align="center">👋 Hello! I'm Mycpen.</h3>
+<p align="center">
+  <a href="https://cpen.top">Blog</a> •
+  <a href="https://twitter.com/mycpen">Twitter</a> •
+  <a href="https://github.com/mycpen">GitHub</a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- 主页卡片之「常用编程语言」  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycpen&layout=compact&theme=default" alt="mycpen的编程语言卡片" />
-</a>
+<h3 align="center">:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
 
-<a href="https://github.com/mycpen/blog">
-  <!-- 主页卡片之「置顶仓库」 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mycpen&repo=blog&theme=default" alt="Hexo + Butterfly 搭建的个人博客" />
-</a>
-
-<!--
-**mycpen/mycpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/mycpen" title="Mycpen's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mycpen&show_icons=true&count_private=true&layout=compact&theme=default">
+  </a>
+  <br/>
+  <a href="https://github.com/mycpen" title="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycpen&layout=compact&count_private=true&theme=default">
+  </a>
+</p>
