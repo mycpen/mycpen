@@ -1,11 +1,11 @@
-<h3 align="center">👋 Hello! I'm Mycpen.</h3>
-<p align="center">
+<h3>👋 Hello! I'm Mycpen.</h3>
+<p>
   <a href="https://cpen.top">Blog</a> •
   <a href="https://twitter.com/mycpen">Twitter</a> •
   <a href="https://github.com/mycpen">GitHub</a>
 </p>
 
-<h3 align="center">:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
+<h3>:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
 
 <p>
   <a href="https://github.com/mycpen" title="Mycpen's GitHub Stats">
