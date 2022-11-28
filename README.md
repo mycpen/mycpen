@@ -1,7 +1,7 @@
 <h3>👋 Hello! I'm Mycpen.</h3>
 <p>
+  <a href="https://i.cpen.top">Home</a> •
   <a href="https://cpen.top">Blog</a> •
-  <a href="https://twitter.com/mycpen">Twitter</a> •
   <a href="https://github.com/mycpen">GitHub</a>
 </p>
 
