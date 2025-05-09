@@ -28,4 +28,7 @@ JSON         20 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [13_Hexo-操作记录](https://blog.cpen.top/posts/db7b8b04.html)
+- [12_Hexo-GitHub Actions 发布博客静态资源至 NPM](https://blog.cpen.top/posts/8d01af11.html)
+- [06_转载-自我提升的8个好习惯](https://blog.cpen.top/posts/85a8374a.html)
 <!-- BLOG-POST-LIST:END -->
